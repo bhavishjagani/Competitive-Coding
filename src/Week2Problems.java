@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class Week2Problems {
     public static int search(int[] nums, int target) {
         for (int i = 0; i < nums.length; i++) {
@@ -175,7 +174,5 @@ public class Week2Problems {
         System.out.println(lengthOfLongestSubstring(lengthOfLongestSubstringString2));
         System.out.println(lengthOfLongestSubstring(lengthOfLongestSubstringString3));
         System.out.println();
-
-        System.out.println("Problem 8: \n");
     }
 }
